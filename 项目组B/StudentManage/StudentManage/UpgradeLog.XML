@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="StudentManage">
+</Property><Property Name="解决方案文件" Value="E:\tian\StudentManage\StudentManage\StudentManage.sln">
+</Property><Property Name="用户选项文件" Value="E:\tian\StudentManage\StudentManage\StudentManage.suo">
+</Property><Property Name="Date" Value="2016年10月8日">
+</Property><Property Name="Time" Value="19:29">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="StudentManage.sln" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage.sln">
+</Event><Event ErrorLevel="0" Project="" Source="StudentManage.suo" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage.suo">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\StudentManage.csproj" Description="项目文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\StudentManage.csproj">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Class\AddClassForm.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Class\AddClassForm.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Class\AddClassForm.Designer.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Class\AddClassForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Class\ClassManageForm.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Class\ClassManageForm.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Class\ClassManageForm.Designer.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Class\ClassManageForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Class\ModifyClassForm.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Class\ModifyClassForm.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Class\ModifyClassForm.Designer.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Class\ModifyClassForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Course\AddCourseForm.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Course\AddCourseForm.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Course\AddCourseForm.Designer.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Course\AddCourseForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Course\CourseManageForm.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Course\CourseManageForm.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Course\CourseManageForm.Designer.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Course\CourseManageForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Course\ModifyCourseForm.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Course\ModifyCourseForm.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Course\ModifyCourseForm.Designer.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Course\ModifyCourseForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Login\AccountForm.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Login\AccountForm.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Login\AccountForm.Designer.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Login\AccountForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Login\LoginInterfaceForm.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Login\LoginInterfaceForm.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Login\LoginInterfaceForm.Designer.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Login\LoginInterfaceForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Login\ModifyNewsForm.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Login\ModifyNewsForm.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Login\ModifyNewsForm.Designer.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Login\ModifyNewsForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Login\ModifyPWDForm.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Login\ModifyPWDForm.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Login\ModifyPWDForm.Designer.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Login\ModifyPWDForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\MainForm.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\MainForm.Designer.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Program.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Program.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Properties\Resources.Designer.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Properties\Settings.Designer.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Score\AddScoreForm.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Score\AddScoreForm.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Score\AddScoreForm.Designer.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Score\AddScoreForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Score\ModifyScoreForm.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Score\ModifyScoreForm.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Score\ModifyScoreForm.Designer.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Score\ModifyScoreForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Score\ScoreManageForm.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Score\ScoreManageForm.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Score\ScoreManageForm.Designer.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Score\ScoreManageForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Student\AddStuForm.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Student\AddStuForm.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Student\AddStuForm.Designer.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Student\AddStuForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Student\ModifyStuForm.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Student\ModifyStuForm.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Student\ModifyStuForm.Designer.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Student\ModifyStuForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Student\StuManageForm.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Student\StuManageForm.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Student\StuManageForm.Designer.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Student\StuManageForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Teacher\AddTeaForm.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Teacher\AddTeaForm.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Teacher\AddTeaForm.Designer.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Teacher\AddTeaForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Teacher\ModifyTeaEduForm.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Teacher\ModifyTeaEduForm.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Teacher\ModifyTeaEduForm.Designer.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Teacher\ModifyTeaEduForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Teacher\ModifyTeaForm.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Teacher\ModifyTeaForm.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Teacher\ModifyTeaForm.Designer.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Teacher\ModifyTeaForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Teacher\TeaEduManageForm.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Teacher\TeaEduManageForm.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Teacher\TeaEduManageForm.Designer.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Teacher\TeaEduManageForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Teacher\TeaManageForm.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Teacher\TeaManageForm.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Teacher\TeaManageForm.Designer.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Teacher\TeaManageForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\App.config" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\App.config">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Properties\Settings.settings" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Resources\2337CE614DBD6B4CAEF850A5CF8493C7.jpg" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Resources\2337CE614DBD6B4CAEF850A5CF8493C7.jpg">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Resources\png-05061.png" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Resources\png-05061.png">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Resources\png-05701.png" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Resources\png-05701.png">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Resources\png-05852.png" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Resources\png-05852.png">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Resources\png-06681.png" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Resources\png-06681.png">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Resources\png-07012.png" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Resources\png-07012.png">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Resources\png-07581.png" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Resources\png-07581.png">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Resources\png-08402.png" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Resources\png-08402.png">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Resources\PNG-08861.png" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Resources\PNG-08861.png">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Resources\PNG-09471.png" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Resources\PNG-09471.png">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Resources\PNG-09861.png" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Resources\PNG-09861.png">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Resources\Comic Icons 3 back1.png" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Resources\Comic Icons 3 back1.png">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Resources\Comic Icons 3 button_cancel1.png" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Resources\Comic Icons 3 button_cancel1.png">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Resources\png-0520.png" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Resources\png-0520.png">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Resources\png-0550.png" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Resources\png-0550.png">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Resources\png-05702.png" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Resources\png-05702.png">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Class\AddClassForm.resx" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Class\AddClassForm.resx">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Class\ClassManageForm.resx" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Class\ClassManageForm.resx">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Class\ModifyClassForm.resx" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Class\ModifyClassForm.resx">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Course\AddCourseForm.resx" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Course\AddCourseForm.resx">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Course\CourseManageForm.resx" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Course\CourseManageForm.resx">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Course\ModifyCourseForm.resx" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Course\ModifyCourseForm.resx">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Login\AccountForm.resx" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Login\AccountForm.resx">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Login\LoginInterfaceForm.resx" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Login\LoginInterfaceForm.resx">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Login\ModifyNewsForm.resx" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Login\ModifyNewsForm.resx">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Login\ModifyPWDForm.resx" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Login\ModifyPWDForm.resx">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\MainForm.resx" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Properties\Resources.resx" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Score\AddScoreForm.resx" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Score\AddScoreForm.resx">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Score\ModifyScoreForm.resx" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Score\ModifyScoreForm.resx">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Score\ScoreManageForm.resx" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Score\ScoreManageForm.resx">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Student\AddStuForm.resx" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Student\AddStuForm.resx">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Student\ModifyStuForm.resx" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Student\ModifyStuForm.resx">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Student\StuManageForm.resx" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Student\StuManageForm.resx">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Teacher\AddTeaForm.resx" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Teacher\AddTeaForm.resx">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Teacher\ModifyTeaEduForm.resx" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Teacher\ModifyTeaEduForm.resx">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Teacher\ModifyTeaForm.resx" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Teacher\ModifyTeaForm.resx">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Teacher\TeaEduManageForm.resx" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Teacher\TeaEduManageForm.resx">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\Teacher\TeaManageForm.resx" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\StudentManage\Teacher\TeaManageForm.resx">
+</Event><Event ErrorLevel="1" Project="StudentManage" Source="StudentManage\StudentManage.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\StudentManage.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="StudentManage" Source="StudentManage\StudentManage.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Manage" Source="Manage\Manage.csproj" Description="项目文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\Manage\Manage.csproj">
+</Event><Event ErrorLevel="0" Project="Manage" Source="Manage\Class\Class.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\Manage\Class\Class.cs">
+</Event><Event ErrorLevel="0" Project="Manage" Source="Manage\Course\Course.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\Manage\Course\Course.cs">
+</Event><Event ErrorLevel="0" Project="Manage" Source="Manage\Login\Login.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\Manage\Login\Login.cs">
+</Event><Event ErrorLevel="0" Project="Manage" Source="Manage\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\Manage\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Manage" Source="Manage\Score\Score.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\Manage\Score\Score.cs">
+</Event><Event ErrorLevel="0" Project="Manage" Source="Manage\Student\Student.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\Manage\Student\Student.cs">
+</Event><Event ErrorLevel="0" Project="Manage" Source="Manage\Teacher\Teacher.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\Manage\Teacher\Teacher.cs">
+</Event><Event ErrorLevel="0" Project="Manage" Source="Manage\Teacher_Course_Class\T_C_C.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\Manage\Teacher_Course_Class\T_C_C.cs">
+</Event><Event ErrorLevel="1" Project="Manage" Source="Manage\Manage.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="Manage" Source="Manage\Manage.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Manage" Source="Manage\Manage.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="项目文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\Model\Model.csproj">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Class\Class.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\Model\Class\Class.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Class_Course\Class_Course.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\Model\Class_Course\Class_Course.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Course\Course.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\Model\Course\Course.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\Model\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Score\Score.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\Model\Score\Score.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Student\Student.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\Model\Student\Student.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Teacher\Teacher.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\Model\Teacher\Teacher.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Teacher_Class\Teacher_Class.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\Model\Teacher_Class\Teacher_Class.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Teacher_Course\Teacher_Course.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\Model\Teacher_Course\Teacher_Course.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Users\Users.cs" Description="文件已成功备份为 E:\tian\StudentManage\StudentManage\Backup\Model\Users\Users.cs">
+</Event><Event ErrorLevel="1" Project="Model" Source="Model\Model.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Model" Source="Model\Model.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="StudentManage.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="StudentManage.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="StudentManage" Source="StudentManage\StudentManage.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Manage" Source="Manage\Manage.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

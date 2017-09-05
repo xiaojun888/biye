@@ -1,0 +1,4 @@
+E:\tian\StudentManage\StudentManage\Model\bin\Debug\Model.dll
+E:\tian\StudentManage\StudentManage\Model\bin\Debug\Model.pdb
+E:\tian\StudentManage\StudentManage\Model\obj\Debug\Model.dll
+E:\tian\StudentManage\StudentManage\Model\obj\Debug\Model.pdb

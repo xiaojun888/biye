@@ -1,0 +1,66 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\bin\Debug\StudentManage.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\bin\Debug\StudentManage.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\obj\Debug\StudentManage.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\obj\Debug\StudentManage.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\obj\Debug\StudentManage.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\obj\Debug\StudentManage.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\bin\Debug\Manage.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\bin\Debug\Manage.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\bin\Debug\StudentManage.exe.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\obj\Debug\StudentManage.Class.AddClassForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\obj\Debug\StudentManage.Class.ClassManageForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\obj\Debug\StudentManage.Class.ModifyClassForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\obj\Debug\StudentManage.Login.AccountForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\obj\Debug\StudentManage.Login.LoginInterfaceForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\obj\Debug\StudentManage.Login.ModifyNewsForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\obj\Debug\StudentManage.Login.ModifyPWDForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\obj\Debug\StudentManage.MainForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\obj\Debug\StudentManage.Score.AddScoreForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\obj\Debug\StudentManage.Score.ScoreManageForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\obj\Debug\StudentManage.Student.AddStuForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\obj\Debug\StudentManage.Student.ModifyStuForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\obj\Debug\StudentManage.Student.StuManageForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\obj\Debug\StudentManage.Teacher.AddTeaForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\obj\Debug\StudentManage.Teacher.ModifyTeaEduForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\obj\Debug\StudentManage.Teacher.ModifyTeaForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\obj\Debug\StudentManage.Teacher.SearchTeaForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\obj\Debug\StudentManage.Teacher.TeaEduManageForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\StudentManage\obj\Debug\StudentManage.Teacher.TeaManageForm.resources
+F:\StudentManage\StudentManage\bin\Debug\StudentManage.exe.config
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.exe
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.pdb
+F:\StudentManage\StudentManage\obj\Debug\ResolveAssemblyReference.cache
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.Class.AddClassForm.resources
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.Class.ClassManageForm.resources
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.Class.ModifyClassForm.resources
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.Login.AccountForm.resources
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.Login.LoginInterfaceForm.resources
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.Login.ModifyNewsForm.resources
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.Login.ModifyPWDForm.resources
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.MainForm.resources
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.Properties.Resources.resources
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.Score.AddScoreForm.resources
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.Score.ScoreManageForm.resources
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.Student.AddStuForm.resources
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.Student.ModifyStuForm.resources
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.Student.StuManageForm.resources
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.Teacher.AddTeaForm.resources
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.Teacher.ModifyTeaEduForm.resources
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.Teacher.ModifyTeaForm.resources
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.Teacher.TeaEduManageForm.resources
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.Teacher.TeaManageForm.resources
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.csproj.GenerateResource.Cache
+F:\StudentManage\StudentManage\bin\Debug\StudentManage.exe
+F:\StudentManage\StudentManage\bin\Debug\StudentManage.pdb
+F:\StudentManage\StudentManage\bin\Debug\Manage.dll
+F:\StudentManage\StudentManage\bin\Debug\Model.dll
+F:\StudentManage\StudentManage\bin\Debug\Model.pdb
+F:\StudentManage\StudentManage\bin\Debug\Manage.pdb
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.Score.ModifyScoreForm.resources
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.Course.AddCourseForm.resources
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.Course.CourseManageForm.resources
+F:\StudentManage\StudentManage\obj\Debug\StudentManage.Course.ModifyCourseForm.resources
+F:\StudentManage\StudentManage\bin\Debug\IrisSkin2.dll

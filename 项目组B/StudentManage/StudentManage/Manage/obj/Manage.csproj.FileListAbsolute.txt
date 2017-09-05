@@ -1,0 +1,14 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\Manage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\Manage\bin\Debug\Manage.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\Manage\bin\Debug\Manage.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\Manage\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\Manage\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\Manage\obj\Debug\Manage.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\StudentManage\Manage\obj\Debug\Manage.pdb
+F:\StudentManage\Manage\bin\Debug\Manage.dll
+F:\StudentManage\Manage\bin\Debug\Manage.pdb
+F:\StudentManage\Manage\bin\Debug\Model.dll
+F:\StudentManage\Manage\bin\Debug\Model.pdb
+F:\StudentManage\Manage\obj\Debug\ResolveAssemblyReference.cache
+F:\StudentManage\Manage\obj\Debug\Manage.dll
+F:\StudentManage\Manage\obj\Debug\Manage.pdb
